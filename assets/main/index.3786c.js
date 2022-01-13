@@ -340,8 +340,8 @@ window.__require = function e(t, a, i) {
             "use strict";
             cc._RF.push(t, "4754e8KuPZJCqklCNyKpG29", "LanguageSetJs"), t.exports = {
                 language_1: {
-                    game_name: "「召唤北北」",
-                    game_name1: "召唤北北",
+                    game_name: "「召唤北北无敌版」",
+                    game_name1: "召唤北北无敌版",
                     game_info: "点击屏幕串珠子，两个相同级别的珠子会合成更高级的珠子。",
                     txtStart: "开始",
                     txtMore: "更多游戏",
